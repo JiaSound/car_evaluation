@@ -1,0 +1,5 @@
+Model: Eval of Car
+Predictors: ['buying', 'maint', 'doors', 'persons', 'lug_boot', 'safety']
+Name of algorithm: random forest
+name of the variable objective: class
+catagories of variable objectives: 'acc', 'good', 'unacc', 'vgood'
